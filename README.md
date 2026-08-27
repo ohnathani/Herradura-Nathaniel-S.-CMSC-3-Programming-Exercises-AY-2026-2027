@@ -1,4 +1,4 @@
-# Herradura, Nathaniel S. - CMSC 3 Programming Exercises
+# [Herradura, Nathaniel S.] - CMSC 3 Programming Exercises
 
 This repository is used to organize and store programming work completed for CMSC 3 during the AY 2026-2027 academic period.
 
