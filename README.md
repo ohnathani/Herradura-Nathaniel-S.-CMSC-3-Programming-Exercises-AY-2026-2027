@@ -4,7 +4,7 @@ This repository is used to organize and store programming work completed for CMS
 
 ## Purpose
 
-This project serves as a collection of programming exercises, assignments, and related work. It is intended to keep solutions, notes, and files organized in a single place for review and learning.
+This repository serves as a collection of programming exercises, assignments, and related work.
 
 ## Contents
 
@@ -13,8 +13,6 @@ The repository may include a variety of programming tasks, such as:
 - coding exercises
 - assignments
 - practice problems
-- scripts or programs
-- notes and supporting materials
 
 ## How to Use This Repository
 
@@ -30,10 +28,6 @@ The repository may include a variety of programming tasks, such as:
 git clone <repository-url>
 cd Herradura-Nathaniel-S.-CMSC-3-Programming-Exercises-AY-2026-2027
 ```
-
-## Notes
-
-This repository is designed to be flexible and can accommodate different programming languages, tools, and course activities. The structure may evolve as new tasks are added.
 
 ## Author
 
